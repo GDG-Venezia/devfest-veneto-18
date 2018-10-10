@@ -1,15 +1,14 @@
 <!-- Begin Location Section -->
-<section id="location-map" class="location-map">
-    <div id="canvas-map" class="canvas-map"></div>
+<section id="twitter-feed" class="image-section parallax" style="background-image: url({{ site.baseurl }}/img/sections-background/location.jpg);">
+    <div class="overlay solid-overlay"></div>
     <div class="content-wrapper">
         <div class="col-lg-3 col-md-4 col-sm-6 col-md-offset-1 animated hiding location-description text-left" data-animation="fadeInLeft" data-delay="0">
             <div class="row">
                 <div class="pull-left">
-                    <h3>{{ site.locationBlockTitle }}</h3>
-                    <ul>
+                    <h3 style="color: #000;">{{ site.locationBlockTitle }}</h3>
+                    <ul  style="color: #000;">
                         {% if site.eventLocationName %}<li>{{ site.eventLocationName }}</li>{% endif %}
                         <li>{{ site.eventStreetAddress }}, {{ site.eventAddressLocality }}</li>
-                        <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
                         <li>
                             {% assign startTime = site.eventStartTime | split: "T" %}
                             <time>{{ startTime[1] }}</time> -
@@ -18,7 +17,7 @@
                         </li>
                     </ul>
                 </div>
-                <a href="{{ site.baseurl | append: '/logistics/#find-way' }}" class="pull-right">
+                <a target="blank" href="https://www.google.it/maps/place/Fabrica/@45.7393613,12.2661991,15z/data=!4m5!3m4!1s0x0:0x5f29bcd1af8e6e6d!8m2!3d45.7393613!4d12.2661991" class="pull-right">
                     <svg class="icon icon-direction" viewBox="0 0 32 32">
                         <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-direction"></use>
                     </svg>
