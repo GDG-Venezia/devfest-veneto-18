@@ -37,9 +37,8 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
-
+c4pUrl: "https://goo.gl/forms/BRl1SPguBqhNAOTG2"
+c4sponsorsUrl: "https://docs.google.com/document/d/1H5YvAYf1elYBcqlgPs2LH1-93z22hG0Y8j7cG_6Z_DU/edit?usp=sharing"
 
 # Navigation
 navigationLinks:
@@ -52,9 +51,9 @@ navigationLinks:
  - {permalink: "/#team", text: "Team"}
  - {permalink: "/#tickets", text: "Biglietti"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Diventa uno speaker"}
+ - {link: "https://goo.gl/forms/BRl1SPguBqhNAOTG2", text: "Diventa uno speaker"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Diventa uno speaker"}
+ - {link: "https://goo.gl/forms/BRl1SPguBqhNAOTG2", text: "Diventa uno speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -62,23 +61,22 @@ heroTitle: "DevFest Veneto 2018"
 eventDate: "24 Novembre 2018"
 heroButtons:
  - {permalink: "/#tickets", text: "Biglietti"}
- - {link: "https://bit.ly/dfua-c4p", text: "Diventa uno speaker"}
- - {link: "https://bit.ly/dfua-c4p", text: "Diventa un partner"}
+ - {link: "https://goo.gl/forms/BRl1SPguBqhNAOTG2", text: "Diventa uno speaker"}
+ - {link: "https://docs.google.com/document/d/1H5YvAYf1elYBcqlgPs2LH1-93z22hG0Y8j7cG_6Z_DU/edit?usp=sharing", text: "Diventa un partner"}
 
 # About Block
 aboutTitle: "Che cos'è una DevFest?"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Talk", image: "conference.jpg", text: "" }
+ - {title: "Codelab", image: "workshop.jpg", text: "" }
+ - {title: "Networking", image: "hackathon.jpg", text: "" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "1", specialCharacter: "", info: "giornata", detail: ""}
+ - {count: "10", specialCharacter: "+", info: "speakers", detail: ""}
+ - {count: "150", specialCharacter: "", info: "partecipanti", detail: ""}
 
 # Latest News Block
 latestNewsTitle: "Ultime notizie"
@@ -104,7 +102,7 @@ eventPlaceCoordinates: "45.740209, 12.266216"
 # Partners Block
 organizersTitle: "Organizers"
 partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+partnersC4sponsorsButton: "Diventa un partner"
 
 # Footer
 socialLinks:
