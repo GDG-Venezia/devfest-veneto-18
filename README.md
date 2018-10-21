@@ -1,5 +1,3 @@
-# Project Zeppelin / GDG DevFest 2014 site template
-
 # DevFest Veneto 2018 Website
 
 ### About
