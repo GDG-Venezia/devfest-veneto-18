@@ -41,7 +41,7 @@ navigationLinks:
  - {permalink: "/#location", text: "Location"}
  - {permalink: "/#partners", text: "Partners"}
  - {permalink: "/#team", text: "Team"}
- - {permalink: "/#tickets", text: "Biglietti"}
+ - {permalink: "/#tickets", text: "Prenota il tuo posto"}
 bottomNavigationLinks:
  - {link: "https://goo.gl/forms/BRl1SPguBqhNAOTG2", text: "Diventa uno speaker"}
 rightNavigationButtons:
@@ -52,7 +52,7 @@ heroImage: "hero.jpg"
 heroTitle: "DevFest Veneto 2018"
 eventDate: "24 Novembre 2018"
 heroButtons:
- - {permalink: "/#tickets", text: "Biglietti"}
+ - {permalink: "/#tickets", text: "Prenota il tuo posto"}
  - {link: "https://goo.gl/forms/BRl1SPguBqhNAOTG2", text: "Diventa uno speaker"}
  - {link: "https://docs.google.com/document/d/1H5YvAYf1elYBcqlgPs2LH1-93z22hG0Y8j7cG_6Z_DU/edit?usp=sharing", text: "Diventa un partner"}
 
