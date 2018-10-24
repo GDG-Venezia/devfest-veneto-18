@@ -24,9 +24,9 @@ siteVerification: ""
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, venezia"
 twitterAccount: ""
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+socialImageSrcGooglePlus: "/img/sections-background/room.jpg"
+socialImageSrcTwitter: "/img/sections-background/room.jpg"
+socialImageSrcFacebook: "/img/sections-background/room.jpg"
 
 # Documents
 c4pUrl: "https://goo.gl/forms/BRl1SPguBqhNAOTG2"
