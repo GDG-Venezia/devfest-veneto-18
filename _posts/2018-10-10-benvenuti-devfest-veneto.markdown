@@ -32,7 +32,7 @@ L'evento sarà completamente **gratuito**, ma i posti sono limitati! Non dimenti
 * Per i **privati**: ognuno può dare il suo contributo! Se vuoi tenere un talk, se vuoi aiutarci con la logistica, oppure darci una mano ad accogliere le persone e aiutarci con la registrazione. Qualsiasi aiuto è ben accetto, contattaci e troveremo un ruolo per te nello staff della DevFest Veneto!
 
 
-Seguiteci per seguire tutti gli aggiornamenti!
+Seguiteci per ricevere tutti gli aggiornamenti!
 * [Facebook](https://facebook.com/gdgvenezia)
 * [Twitter](https://twitter.com/intent/user?screen_name=gdgvenezia)
 * [Meetup](https://www.meetup.com/it-IT/GDG-Venezia)

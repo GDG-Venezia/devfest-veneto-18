@@ -16,7 +16,7 @@ L'iscrizione vi da diritto ad eccedere all'evento, ricevere gadget e godere del 
 Ricordatevi che i posti sono limitati, per cui non perdete tempo e assicuratevi un posto per la **DevFest Veneto 2018**!
 
 
-Seguiteci per seguire tutti gli aggiornamenti!
+Seguiteci per ricevere tutti gli aggiornamenti!
 * [Facebook](https://facebook.com/gdgvenezia)
 * [Twitter](https://twitter.com/intent/user?screen_name=gdgvenezia)
 * [Meetup](https://www.meetup.com/it-IT/GDG-Venezia)
