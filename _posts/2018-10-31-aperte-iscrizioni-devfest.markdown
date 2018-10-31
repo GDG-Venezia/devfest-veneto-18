@@ -11,7 +11,7 @@ Da oggi potete prenotare il vostro posto per l'evento del 24 Novembre gratuitame
 
 [https://www.eventbrite.it/e/biglietti-devfest-veneto-2018-51936808392](https://www.eventbrite.it/e/biglietti-devfest-veneto-2018-51936808392)
 
-L'iscrizione vi da diritto ad eccedere all'evento, ricevere gadget e godere del pranzo offerto dai nostri partner.
+L'iscrizione vi da diritto ad eccedere all'evento, ricevere gadget e godere del pranzo by ChefYouWant.
 
 Ricordatevi che i posti sono limitati, per cui non perdete tempo e assicuratevi un posto per la **DevFest Veneto 2018**!
 
