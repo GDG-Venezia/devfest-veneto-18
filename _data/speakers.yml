@@ -13,3 +13,15 @@
 #    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
 #    - {name: "twitter", link: "https://twitter.com/mherych"}
 #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+
+-
+  id: 1
+  name: "Marco"
+  surname: "Falcier"
+  company: "Pixartprinting S.P.A."
+  title: "Software Engineer"
+  bio: "Marco is a Software Engineer @ Pixartprinting. Kotlin enthusiast, graph databases villain and synthesizers lover, currently working with the cloud, but unfortunately not into it."
+  thumbnailUrl: falcier.jpg
+  rockstar: true
+  social: 
+    - {name: "github", link: "https://github.com/mfalcier"}
