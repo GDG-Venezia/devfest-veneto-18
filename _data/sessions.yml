@@ -26,3 +26,10 @@
   subtype: Talk
   speakers: [1]
   complexity: "Intermediate"
+-
+  id: 002
+  title: "EVERYDAYS - why you need to create daily"
+  description: "Craft new things Everyday with Unity3D especially for web developers or anyone that wants to explore new planets. Daily practice of new technologies, experiences and creations will boost your ideas and imagination for your regular work even if you are a web or app developer. The talk will showcase the power of Unity3D with VR, AR and 3D stuff to inspire you to explore the future of immersive technologies. "
+  subtype: Talk
+  speakers: [2]
+  complexity: "Beginner"

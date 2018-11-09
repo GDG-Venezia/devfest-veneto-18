@@ -25,3 +25,14 @@
   rockstar: true
   social: 
     - {name: "github", link: "https://github.com/mfalcier"}
+-
+  id: 2
+  name: "Riccardo"
+  surname: "Giorato"
+  company: "Student"
+  title: ""
+  bio: "I design and develop Web and XR experiences. Previous experience with React/Frontend, Machine Learning, Student of Computer Science @University of Padova. I discovered Unity3D that enabled me to enter 3D worlds."
+  thumbnailUrl: giorato.png
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/RiccardoGiorato/"}
