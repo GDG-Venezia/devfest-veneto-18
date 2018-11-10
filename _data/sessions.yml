@@ -61,13 +61,13 @@
   subtype: Talk
   speakers: [6]
   complexity: "Intermediate"
-#-
-#  id: 007
-#  title: ""
-#  description: ""
-#  subtype: Talk
-#  speakers: []
-#  complexity: ""
+-
+  id: 007
+  title: "Reverse Engineering delle APIs di Trenitalia"
+  description: "Recuperare gli endpoints di un'app mobile non è facile, ma non è nemmeno difficile se non si prendono alcune precauzioni come code obfuscation e certificate pinning. In questa sessione di live coding, prenderemo il caso di Trenitalia, e proveremo a ricostruire in Python le APIs ufficiali della loro app Android. Utilizzando un emulatore, installeremo un self-signed certificate per bypassare HTTPS, snifferemo il traffico in uscita ed in entrata del client, e decompileremo l'APK nel tentativo di ricostruire la firma degli endpoint. Let's hack together!"
+  subtype: Talk
+  speakers: [7]
+  complexity: "Intermediate"
 # -
 #  id: 008
 #  title: ""

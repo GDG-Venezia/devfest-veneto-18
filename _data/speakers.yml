@@ -86,22 +86,21 @@
   thumbnailUrl: mich.jpg
   rockstar: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/michelmurabito"}
-    - {name: "facebook", link: "https://www.facebook.com/michelmurabito"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/michel-murabito-b5568845"}
-    - {name: "medium", link: "https://medium.com/@mich.murabito"}
-#-
-#  id: 7
-#  name: ""
-#  surname: ""
-#  company: ""
-#  title: ""
-#  bio: ""
-#  thumbnailUrl: .jpg
-#  rockstar: true
-#  social: 
-#    - {name: "github", link: ""}
-#    - {name: "twitter", link: ""}
+   - {name: "twitter", link: "https://twitter.com/michelmurabito"}
+   - {name: "facebook", link: "https://www.facebook.com/michelmurabito"}
+   - {name: "linkedin", link: "https://www.linkedin.com/in/michel-murabito-b5568845"}
+   - {name: "medium", link: "https://medium.com/@mich.murabito"}
+-
+  id: 7
+  name: "Gianluca"
+  surname: "Segato"
+  company: "Uniwhere"
+  title: "Founder & CEO"
+  bio: "Founder e CEO di Uniwhere - startup di lifelong learning con 250,000 utenti registrati e 500,000€ di funding raccolti. Background in Economics; proficient in Machine Learning, data analysis e data-driven growth; ex Android developer."
+  thumbnailUrl: gian.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/giansegato"}
 #-
 #  id: 8
 #  name: ""
