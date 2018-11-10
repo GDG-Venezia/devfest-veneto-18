@@ -36,3 +36,117 @@
   rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/RiccardoGiorato/"}
+-
+  id: 3
+  name: "Daniele"
+  surname: "Bonaldo"
+  company: "Novoda"
+  title: "Android Developer"
+  bio: "Daniele is an Android developer at Novoda. He’s passionate about photography and wearable technologies. Before working at Novoda, he worked at i’m Spa, an Italian startup where he had the chance to play with the Android platform while developing one of the first smartwatches on the market (\"Doing smartwatchases before it was cool\" as they said). Now he loves to work on everything related to the Android ecosystem, from Chromecast to Wear to smart mirrors."
+  thumbnailUrl: bonaldo.jpg
+  rockstar: true
+  social: 
+    - {name: "site", link: "http://www.danielebonaldo.com/"}
+    - {name: "github", link: "https://github.com/danybony/"}
+    - {name: "twitter", link: "https://twitter.com/danybony_"}
+  ribbon: 
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+-
+  id: 4
+  name: "Matteo"
+  surname: "Bonifazi"
+  company: "Sisal"
+  title: "Android Developer"
+  bio: "Developed worldwide apps for companies ( SKY, CNH, Ferrero, Tesco, Technogym, Sisal) and always keen to face new challenges with \"easy to adapt\" approach. Trying to share my experience and what I’ve learned about mobile to developer communities. Conference speaker and Google Developer expert for Android platform."
+  thumbnailUrl: bonifazi.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/mbonifazi/"}
+  ribbon: 
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+-
+  id: 5
+  name: "Thomas"
+  surname: "Rossetto"
+  company: "Seesaw"
+  title: "Fullstack Dev"
+  bio: "Thomas is an italian \"fullstack\" dev with a big curiosity ! He works in SeeSaw and plays with a lot of technologies like Rails, Saltstack, Docker, Elixir and more stuff like that. In his (few) free time he is the organizer of Programmers in Padua community. Also, he's an indie rock music lover. "
+  thumbnailUrl: thomas.jpg
+  rockstar: true
+  social: 
+    - {name: "github", link: ""}
+    - {name: "twitter", link: ""}
+-
+  id: 6
+  name: "Michel"
+  surname: "Murabito"
+  company: "Spindox"
+  title: "Web Developer"
+  bio: "Web Developer By Day, Superhero Wannabe By Night!"
+  thumbnailUrl: mich.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/michelmurabito"}
+    - {name: "facebook", link: "https://www.facebook.com/michelmurabito"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/michel-murabito-b5568845"}
+    - {name: "medium", link: "https://medium.com/@mich.murabito"}
+#-
+#  id: 7
+#  name: ""
+#  surname: ""
+#  company: ""
+#  title: ""
+#  bio: ""
+#  thumbnailUrl: .jpg
+#  rockstar: true
+#  social: 
+#    - {name: "github", link: ""}
+#    - {name: "twitter", link: ""}
+#-
+#  id: 8
+#  name: ""
+#  surname: ""
+#  company: ""
+#  title: ""
+#  bio: ""
+#  thumbnailUrl: .jpg
+#  rockstar: true
+#  social: 
+#    - {name: "github", link: ""}
+#    - {name: "twitter", link: ""}
+#-
+#  id: 9
+#  name: ""
+#  surname: ""
+#  company: ""
+#  title: ""
+#  bio: ""
+#  thumbnailUrl: .jpg
+#  rockstar: true
+#  social: 
+#    - {name: "github", link: ""}
+#    - {name: "twitter", link: ""}
+#-
+#  id: 10
+#  name: ""
+#  surname: ""
+#  company: ""
+#  title: ""
+#  bio: ""
+#  thumbnailUrl: .jpg
+#  rockstar: true
+#  social: 
+#    - {name: "github", link: ""}
+#    - {name: "twitter", link: ""}
+#-
+#  id: 11
+#  name: ""
+#  surname: ""
+#  company: ""
+#  title: ""
+#  bio: ""
+#  thumbnailUrl: .jpg
+#  rockstar: true
+#  social: 
+#    - {name: "github", link: ""}
+#    - {name: "twitter", link: ""}    

@@ -33,3 +33,73 @@
   subtype: Talk
   speakers: [2]
   complexity: "Beginner"
+-
+  id: 003
+  title: "Do-it-yourselfie, an Android Things photo booth"
+  description: "In this talk we'll see how to build an Android Things-powered photo booth that saves the captured pictures to Google Photos. We'll see an introduction to Android Things, showing the difference between developing for a traditional mobile compared to an IoT device. Then we'll see some of the other service integrations we adopted in this project."
+  subtype: Talk
+  speakers: [3]
+  complexity: "Beginner"
+-
+  id: 004
+  title: "Android JET Navigation"
+  description: "Change the way you navigate inside your Android mobile app. Let's see together how the new navigation architecture component can simplify the implementation of navigation in your app."
+  subtype: Talk
+  speakers: [4]
+  complexity: "Intermediate"
+-
+  id: 005
+  title: "BlockChain, la (non) rivoluzione ci aspetta!"
+  description: Blockchain e Bitcoin sono parole che oramai si sentono perfino al telegiornale o nei saloni di bellezza, quando non troppo tempo fa, erano solite monopolizzare le chiacchiere da pub di qualche nerd. Ma veramente questa tecnologia, oltre a catalizzare un'enorme attenzione, sarà alla base dei servizi più comuni del prossimo futuro? O sarà così marginale che inizieremo a chiamarla FlopChain? Un talk poco tecnico che ma punta all'essenza della blockchain lanciando uno sguardo al futuro."
+  subtype: Talk
+  speakers: [5]
+  complexity: "Beginner"
+-
+  id: 006
+  title: "La Morte Nera, e se fosse prototipizzata con Firebase e React?"
+  description: "Vedremo come sfruttare al meglio Firebase e React per prototipazione veloce di applicazioni complesse. Sfruttando le nuove feature di Firebase in un contesto a componenti impareremo come accelerare senza perder pezzi per strada."
+  subtype: Talk
+  speakers: [6]
+  complexity: "Intermediate"
+#-
+#  id: 007
+#  title: ""
+#  description: ""
+#  subtype: Talk
+#  speakers: []
+#  complexity: ""
+# -
+#  id: 008
+#  title: ""
+#  description: ""
+#  subtype: Talk
+#  speakers: []
+#  complexity: ""
+#-
+#  id: 009
+#  title: ""
+#  description: ""
+#  subtype: Talk
+#  speakers: []
+#  complexity: ""
+#-
+#  id: 010
+#  title: ""
+#  description: ""
+#  subtype: Talk
+#  speakers: []
+#  complexity: ""
+#-
+#  id: 011
+#  title: ""
+#  description: ""
+#  subtype: Talk
+#  speakers: []
+#  complexity: ""
+#-
+#  id: 012
+#  title: ""
+#  description: ""
+#  subtype: Talk
+#  speakers: []
+#  complexity: ""
