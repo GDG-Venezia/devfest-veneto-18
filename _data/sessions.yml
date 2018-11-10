@@ -50,7 +50,7 @@
 -
   id: 005
   title: "BlockChain, la (non) rivoluzione ci aspetta!"
-  description: Blockchain e Bitcoin sono parole che oramai si sentono perfino al telegiornale o nei saloni di bellezza, quando non troppo tempo fa, erano solite monopolizzare le chiacchiere da pub di qualche nerd. Ma veramente questa tecnologia, oltre a catalizzare un'enorme attenzione, sarà alla base dei servizi più comuni del prossimo futuro? O sarà così marginale che inizieremo a chiamarla FlopChain? Un talk poco tecnico che ma punta all'essenza della blockchain lanciando uno sguardo al futuro."
+  description: "Blockchain e Bitcoin sono parole che oramai si sentono perfino al telegiornale o nei saloni di bellezza, quando non troppo tempo fa, erano solite monopolizzare le chiacchiere da pub di qualche nerd. Ma veramente questa tecnologia, oltre a catalizzare un'enorme attenzione, sarà alla base dei servizi più comuni del prossimo futuro? O sarà così marginale che inizieremo a chiamarla FlopChain? Un talk poco tecnico ma che punta all'essenza della blockchain lanciando uno sguardo al futuro."
   subtype: Talk
   speakers: [5]
   complexity: "Beginner"
