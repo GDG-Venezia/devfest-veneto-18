@@ -101,18 +101,17 @@
   rockstar: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/giansegato"}
-#-
-#  id: 8
-#  name: ""
-#  surname: ""
-#  company: ""
-#  title: ""
-#  bio: ""
-#  thumbnailUrl: .jpg
-#  rockstar: true
-#  social: 
-#    - {name: "github", link: ""}
-#    - {name: "twitter", link: ""}
+-
+  id: 8
+  name: "Alessandro"
+  surname: "Pezzato"
+  company: ""
+  title: ""
+  bio: "Freelance C++ coder and trainer"
+  thumbnailUrl: pezzato.png
+  rockstar: true
+  social: 
+    - {name: "github", link: "https://github.com/alepez"}
 #-
 #  id: 9
 #  name: ""

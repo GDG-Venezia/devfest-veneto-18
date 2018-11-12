@@ -68,14 +68,16 @@
   subtype: Talk
   speakers: [7]
   complexity: "Intermediate"
-# -
-#  id: 008
-#  title: ""
-#  description: ""
-#  subtype: Talk
-#  speakers: []
-#  complexity: ""
-#-
+-
+  id: 008
+  title: "Coding Gym"
+  description: "Per partecipare al codelab e' necessario iscriversi compilando questo form: https://goo.gl/forms/HbKhAuC3kBiUWyD73. I posti sono limitati. Coding Gym è un format internazionale di laboratori di programmazione aperti a qualsiasi linguaggio e sviluppati per il miglioramento continuo. Segue il manifesto di Coding Gym: \"We help others practice programming, software development and communication skills by making coding laboratories open to any programming language where cooperation is valued over competition, doing and sharing are valued over teaching, and where competing solutions come with discussing and understanding tradeoffs.\"
+  
+  I partecipanti - \"gymmers\" - lavorano a coppie su 3 problemi autocontenuti, utilizzando qualsiasi linguaggio di programmazione desiderano. Tutto viene svolto all'interno di un browser. Dopo ogni esercizio, il Coding Gym \"trainer\" modera una retrospettiva: i gymmers sono invitati a mostrare le proprie soluzioni. Ogni soluzione porta a discutere pro, contro e compromessi. Inoltre, il trainer potrebbe condividere nuove soluzioni e concetti, e potrebbe variare il problema al volo e chiedere ai gymmers di discutere del cambio e dell'impatto di questo cambio di requisiti. Ad esempio, \"cosa accade se l'input del problema cresce di 100 volte?\", oppure \"potete risolvere il problema senza allocare spazio aggiuntivo?\". Qualche volta da una variazione del problema nascono nuove opportunità per semplificare o complicare il problema."
+  subtype: Codelab
+  speakers: [8,5]
+  complexity: "Begineer"
+-
 #  id: 009
 #  title: ""
 #  description: ""
