@@ -22,7 +22,7 @@
 -
   id: 001
   title: "Serverless Event-driven Architecture with Kotlin: the Pixartprinting use case"
-  description: "Serverless is one of the hottest trend topic since cloud became so pop. Unfortunately, the transition between a \"classic\" synchronous architecture to a serverless asynchronous one is not trivial. In this talk we're going to understand what does it takes to switch to serverless with a Kotlin backend application, thanks to Serverless Framework, and how Pixartprintin adopted this tecnology in order to transform its own architecture into an event-driven, asynchronous, scalable, but mostly serverless one."
+  description: "Serverless is one of the hottest trend topic since cloud became so pop. Unfortunately, the transition between a \"classic\" synchronous architecture to a serverless asynchronous one is not trivial. In this talk we're going to understand what does it takes to switch to serverless with a Kotlin backend application, thanks to Serverless Framework, and how Pixartprinting adopted this tecnology in order to transform its own architecture into an event-driven, asynchronous, scalable, but mostly serverless one."
   subtype: Talk
   speakers: [1]
   complexity: "Intermediate"
