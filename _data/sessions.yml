@@ -76,32 +76,32 @@
   I partecipanti - \"gymmers\" - lavorano a coppie su 3 problemi autocontenuti, utilizzando qualsiasi linguaggio di programmazione desiderano. Tutto viene svolto all'interno di un browser. Dopo ogni esercizio, il Coding Gym \"trainer\" modera una retrospettiva: i gymmers sono invitati a mostrare le proprie soluzioni. Ogni soluzione porta a discutere pro, contro e compromessi. Inoltre, il trainer potrebbe condividere nuove soluzioni e concetti, e potrebbe variare il problema al volo e chiedere ai gymmers di discutere del cambio e dell'impatto di questo cambio di requisiti. Ad esempio, \"cosa accade se l'input del problema cresce di 100 volte?\", oppure \"potete risolvere il problema senza allocare spazio aggiuntivo?\". Qualche volta da una variazione del problema nascono nuove opportunità per semplificare o complicare il problema."
   subtype: Codelab
   speakers: [8,5]
-  complexity: "Begineer"
+  complexity: "Beginner"
 -
-#  id: 009
-#  title: ""
-#  description: ""
-#  subtype: Talk
-#  speakers: []
-#  complexity: ""
-#-
-#  id: 010
-#  title: ""
-#  description: ""
-#  subtype: Talk
-#  speakers: []
-#  complexity: ""
-#-
-#  id: 011
-#  title: ""
-#  description: ""
-#  subtype: Talk
-#  speakers: []
-#  complexity: ""
-#-
-#  id: 012
-#  title: ""
-#  description: ""
-#  subtype: Talk
-#  speakers: []
-#  complexity: ""
+  id: 009
+  title: "Frameworkless Frontend Development"
+  description: "As frontend developers, we have a lot of options when we need to choose a framework for our new shining project. But there’s another option that we usually don’t consider at all: a frameworkless approach. Today it’s possible to create single page applications, even complex one, without any kind of dependency. During the talk, I will talk about our experience in extrategy using the Frameworkless technique. Most importantly I will explain how we decide the right framework or no framework at all."
+  subtype: Talk
+  speakers: [9]
+  complexity: "Intermediate"
+-
+  id: 010
+  title: "The (build) time of my life"
+  description: "Building an Android app can be an extremely frustrating experience for developers. Despite caching and all the new features in the Android build system, sometimes even the smallest change can cause a new build to take minutes. In this talk we will explore ways to improve your build times in a modern project that uses Kotlin, annotation processing and multiple modules."
+  subtype: Talk
+  speakers: [10]
+  complexity: "Intermediate"
+-
+  id: 011
+  title: "Introduzione a Machine Learning"
+  description: "Introduzione a Machine Learning ha lo scopo di portare chi vi partecipa ad avere un kickstart nel campo, risolve uno dei problemi classici in machine learning impiegando il mionor numero di elementi possibili per mostrare la maccanica di base di un algoritmo di questa categoria. Vengono poi introdotti elementi per spiegare in modo tangibile il \"curse of dimensionality\". Nella seconda parte del talk, viene mostrato come si può, utilizzando i semplici elementi presentati all'inizio e ricombinarli in vari modi, ottenere varie architetture di neural network, con performance migliori e capaci di gestire vari tipi di dati, tutto questo senza modificare sostanzialmente l'algoritmo di base mostrato all'inizio. Durante l'intero talk, verrano introdotti e spiegati in modo semplice terminologia tecnica specifica, in modo da fornire un'infarinatura di base all'ascoltatore permettendogli di approfondire l'argomento in autonomia."
+  subtype: Talk
+  speakers: [11]
+  complexity: "Beginner"
+-
+  id: 012
+  title: "Primi passi con Unity, creare un gioco 3D in 60 minuti"
+  description: "Primi passi con Unity, creare un gioco 3D in 60 minuti. Per partecipare e' necessario iscriversi compilando il seguente form: "
+  subtype: Codelab
+  speakers: [2]
+  complexity: "Beginner"

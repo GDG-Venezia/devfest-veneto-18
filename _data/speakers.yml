@@ -32,7 +32,7 @@
   company: "Student"
   title: ""
   bio: "I design and develop Web and XR experiences. Previous experience with React/Frontend, Machine Learning, Student of Computer Science @University of Padova. I discovered Unity3D that enabled me to enter 3D worlds."
-  thumbnailUrl: giorato.png
+  thumbnailUrl: giorato.jpg
   rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/RiccardoGiorato/"}
@@ -112,39 +112,36 @@
   rockstar: true
   social: 
     - {name: "github", link: "https://github.com/alepez"}
-#-
-#  id: 9
-#  name: ""
-#  surname: ""
-#  company: ""
-#  title: ""
-#  bio: ""
-#  thumbnailUrl: .jpg
-#  rockstar: true
-#  social: 
-#    - {name: "github", link: ""}
-#    - {name: "twitter", link: ""}
-#-
-#  id: 10
-#  name: ""
-#  surname: ""
-#  company: ""
-#  title: ""
-#  bio: ""
-#  thumbnailUrl: .jpg
-#  rockstar: true
-#  social: 
-#    - {name: "github", link: ""}
-#    - {name: "twitter", link: ""}
-#-
-#  id: 11
-#  name: ""
-#  surname: ""
-#  company: ""
-#  title: ""
-#  bio: ""
-#  thumbnailUrl: .jpg
-#  rockstar: true
-#  social: 
-#    - {name: "github", link: ""}
-#    - {name: "twitter", link: ""}    
+-
+  id: 9
+  name: "Francesco"
+  surname: "Strazzullo"
+  company: "ideato"
+  title: "Web Developer"
+  bio: "Lavoro da 10 anni nello sviluppo web, da qualche anno mi sono specializzato in sviluppo frontend. Da sempre sono appassionato di Architetture software e cerco di applicarle in maniera innovativa allo sviluppo agile."
+  thumbnailUrl: francesco.jpeg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/@TheStrazz86"}
+-
+  id: 10
+  name: "Lorenzo"
+  surname: "Quiroli"
+  company: "busuu"
+  title: "Senior Android Developer"
+  bio: "Born and raised in a small town near Milan, now living in London where he's happily coding Android apps. He's even happier when he can write them in Kotlin, his favourite programming language. Feel free to ping him if you want to talk about code or football"
+  thumbnailUrl: quiro.png
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/lorenzoquiroli"}
+- 
+  id: 11
+  name: "Cesare"
+  surname: "Montresor"
+  company: "Tarallucci, Vino e Machine Learning"
+  title: "Software Developer"
+  bio: "I just never passed the \"Why ?\" phase. I write software for fun and profit.  Currently free falling into deep learning. I like one way tickets."
+  thumbnailUrl: cesare.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/cmontresor/"}  
