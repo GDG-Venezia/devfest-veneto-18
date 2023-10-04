@@ -13,8 +13,8 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "DevFest Veneto 2018"
 email: "veneziagdg@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
-baseurl: "/devfest-veneto-18"
-url: "https://gdg-venezia.github.io"
+#baseurl: "/devfest-veneto-18"
+#url: "https://devfest18.gdgvenezia.it"
 permalink: "/blog/:title"
 # Update
 googleAnalyticsTrackingId: ""
